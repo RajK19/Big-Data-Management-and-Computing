@@ -1,6 +1,6 @@
 # Big-Data-Management-and-Computing
 
-This project is live and is being done under our guidance of our professsor **Dr. Amit Bhardwaj**
+This project is live and is being done under the guidance of our professsor **Dr. Amit Bhardwaj**
 
 **Submitted by-**
 Team members:
